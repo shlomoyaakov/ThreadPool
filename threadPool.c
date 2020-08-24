@@ -1,4 +1,3 @@
-//Shlomo Yakov 206322588
 
 #include "threadPool.h"
 

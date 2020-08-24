@@ -176,7 +176,7 @@ void freeThreadPool(ThreadPool *thread_pool) {
 }
 
 /*
- * handle all the errors.
+ * handle all errors.
  * report the error message by perror, and the free the threadpool and
  */
 void errorHandler(Error error, ThreadPool *thread_pool) {

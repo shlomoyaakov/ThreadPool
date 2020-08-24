@@ -1,4 +1,3 @@
-//Shlomo Yakov 206322588
 #ifndef __THREAD_POOL__
 #define __THREAD_POOL__
 #include <stdio.h>
